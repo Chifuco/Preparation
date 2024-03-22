@@ -18,4 +18,5 @@ The goal of this repository we prepared for you is to prepare you for practical 
 - Execute the jupyter notebook:
     - ```python -m notebook``` - still in repo, and still in ```Powershell```
 - Work with jupyter notebooks prepared for you - .ipynb
-
+   - Tasks in ```Preparation - tasks.ipynb``` will prepare you well for our workshop. Try to solve as many tasks as possible. In case, you got stuck you can check the provided solution.    
+   - Possible solutions of the tasks can be found in   ```Preparation - solution.ipynb```
