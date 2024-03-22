@@ -1,5 +1,5 @@
 # Purpose
-The goal of this repository we prepared for you is to prepare you for practical exercise. During the exercise, we will use modules (```cryptography.hazmat, os, random, secrets```). So you need to install ```python3``` (version 3.6 or higher), jupyter notebooks, and required packages (```hazmat```). The instructions on how to install them can be found below. 
+The goal of this repository we prepared for you is to prepare you for practical exercise. During the exercise, we will use modules (```cryptography.hazmat, os, random, secrets```). So you need to install ```python3``` (version 3.6 or higher), jupyter notebooks, and required packages (```hazmat```). The instructions on how to install them can be found below. If something won't work let use know -- use github issues and report the problem. 
 
 # Setup instructions
 ## Windows 
