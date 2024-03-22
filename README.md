@@ -1,21 +1,19 @@
 # Setup instructions
 
 ## Windows 
-Install python >= 3.6. Then open the powershell and execute installation script:
-```
-.\StartNotebook.ps1
-```
-### On Linux (Bash) or MacOS (Zsh)
-On Linux (Bash) or MacOS (Zsh):
-```
-python3 -m venv env
-source env/bin/activate
-pip install -r requirements.txt
-```
+- Install python (version 3.6 or higher): 
+    - Use ```https://www.codingforentrepreneurs.com/guides/install-python-on-windows``` or directly,
 
-### Open the notebook
-To open the Jupyter notebook, run:
-```
-jupyter notebook
-```
+    - Download python from  ```python.org/downloads/windows``` and install ...
+- Clone the repository:
+    - ```git clone  https://github.com/sysox/Preparation.git``` 
+- Go to cloned repository:
+    - Open the ```Powershell```
+    - Go to repository - use ```cd /.../Preparation``` with  ... replaced by the actual path of the repository on your PC. 
+- Install packages:
+    - ```pip install -r .\requirements.txt```
+
+- Execute the jupyter notebook:
+    - ```python -m notebook``` - still in repo, and still in ```Powershell```
+- Work with jupyter notebooks prepared for you - .ipynb
 
