@@ -1,5 +1,7 @@
-# Setup instructions
+# Purpose
+The goal of this jupyter notebook we prepared for you is to prepare you for practical exercise. During the exercise we will use modules (cryptography.hazmat, os, random, secrets). We will work in python and jupyter notebooks. The instructions how to install them can be found below. 
 
+# Setup instructions
 ## Windows 
 - Install python (version 3.6 or higher): 
     - Use ```https://www.codingforentrepreneurs.com/guides/install-python-on-windows``` or directly,
